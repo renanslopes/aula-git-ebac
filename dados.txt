@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Renan Lopes
+-Profissão: Analista de Testes SR.
+-Cidade: Rio de Janeiro
+-O que faz nas horas vaga: Gamer
+-Feedback sobre o curso Qualidade de Software: Excelente e muito completo!
+-Feedback sobre a plataforma de estudo da EBAC: Muito intuitiva!
+
+Obrigado!!!
+
+
